@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="WaitForWindow.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/30/2019 19:16:04</Property>
+      <Property Name="RunDuration">00:00:18</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
