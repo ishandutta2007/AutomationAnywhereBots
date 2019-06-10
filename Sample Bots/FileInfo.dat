@@ -2,9 +2,9 @@
 <Entities>
   <Entity Name="WaitForWindow.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/30/2019 19:16:04</Property>
-      <Property Name="RunDuration">00:00:18</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">06/07/2019 12:05:09</Property>
+      <Property Name="RunDuration">00:28:13</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
 </Entities>
